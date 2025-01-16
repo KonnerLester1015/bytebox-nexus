@@ -1,5 +1,5 @@
 ---
-title: "Ceph Deployment for Working with QEMU VM"
+title: "Ceph Deployment for Working with QEMU VMs"
 sidebar:
   exclude: true
 ---

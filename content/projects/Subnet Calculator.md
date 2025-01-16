@@ -4,7 +4,12 @@ sidebar:
   exclude: true
 ---
 ## Introduction
-To give some background on the purpose and reason for the use of this calculator. I made this subnet calculator when I was taking a Network Fundamentals course at Purdue Univsertiy. This course had several "subnetting assignments" that tasked be with the work of taking a Host IP, a major network mask, as well as a subnet mask. With this input of information I had to then perform bitwise operation to find several piece of information (as shown in table 1). 
+
+This document provides background information on the purpose and usage of this subnet calculator. I created this subnet calculator while taking a Network Fundamentals course at Purdue University. The course included several "subnetting assignments" that required performing calculations using a host IP address, a major network mask, and a subnet mask. 
+
+Using these inputs, I then had to perform bitwise operations to determine several pieces of information, as outlined in Table 1.
+
+**Table 1 - Example Subnet Sheet**
 
 |   Variable | Example Value  |
 |--------|------|
