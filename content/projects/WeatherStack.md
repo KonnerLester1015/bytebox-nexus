@@ -69,7 +69,7 @@ The program will first welcome the user and introduce the weather functionality 
 
 ## Source Code
 
-{{% details title="Source Code" closed="true" %}}
+{{% details title="View Code" closed="true" %}}
 
 ```C {linenos=table,linenostart=1,filename="rbd.xml"}
 #include <stdio.h>

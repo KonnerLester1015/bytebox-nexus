@@ -37,10 +37,10 @@ Everything you need to know!
   >}}
 
     {{< card
-        link="weather-cli-project"
+        link="weatherstack"
         title="Weather CLI Project"
-        subtitle="Hello."
-        image="/images/subnetcalculator.png"
+        subtitle="A console-based weather application built in C, leveraging the Weatherstack API to fetch and display real-time weather data."
+        image="/images/weatherstack.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
