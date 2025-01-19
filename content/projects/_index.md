@@ -36,4 +36,12 @@ Everything you need to know!
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
+    {{< card
+        link="weather-cli-project"
+        title="Weather CLI Project"
+        subtitle="Hello."
+        image="/images/subnetcalculator.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
 {{< /cards >}}
